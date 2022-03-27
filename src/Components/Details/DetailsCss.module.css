@@ -1,0 +1,53 @@
+.cardtext{
+    font-size: 14px;
+}
+.picon{
+    color: #A9A9A9		;
+    text-decoration: none;
+    padding-left: 1rem;
+
+}
+.picon:hover{
+    color: green;
+}
+.picon1{
+    color: #A9A9A9		;
+    text-decoration: none;
+    padding-left: 1rem;
+
+}
+.picon1:hover{
+    color: red;
+}
+.threepoints{
+    position: absolute;
+    right: 1%;
+    top: 18px;
+    border: 0px;
+    background-color: transparent;
+}
+ .mainheadItemspan{
+     text-decoration: none;
+     font-size: 12px;
+ }
+ .mainheadItemspanDate{
+    text-decoration: none;
+    font-size: 12px;
+    position: absolute;
+    right: 4px;
+    bottom: 12px;
+    color: #A9A9A9	;
+}
+.image {
+    padding: 18px;
+    border-radius: 50%;
+  }
+  .more{
+      color: green;
+      font-size: 10px;
+      position: relative;
+      float: right;
+      right:10px;
+      bottom: -4rem;
+  }
+  

@@ -1,0 +1,47 @@
+.navbarbrand {
+  padding-left: 76px;
+}
+
+.inputicons i {
+  position: absolute;
+}
+
+.inputicons {
+  width: 100%;
+  margin-bottom: 10px;
+}
+
+.icon {
+  padding-left: 7px;
+  padding-top: 25px;
+  min-width: 40px;
+  font-size: 20px;
+  color: gray;
+  opacity: 0.7;
+}
+
+.field {
+  width: 100%;
+  padding: 10px;
+  text-align: center;
+  margin-bottom: 3px;
+   border: 1px solid #e6e6e6;
+  border-radius: 25px;
+  opacity: 1;
+}
+
+@media only screen and (min-width: 992px) {
+  .dFlex {
+    display: flex !important;
+    right: 100px;
+    position: absolute;
+  }
+}
+.dFlex {
+  display: none;
+ 
+}
+.image {
+  padding: 18px;
+  border-radius: 50%;
+}

@@ -1,0 +1,10 @@
+#rowApp{
+  padding-left: 74px;
+  margin-top: 20px;
+}
+
+@media only screen and (max-width: 600px) {
+  #rowApp {
+    padding-left: 1px;
+  }
+}

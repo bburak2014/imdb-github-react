@@ -1,0 +1,14 @@
+.userrow{
+    width: 100%;
+    text-align: center;
+    margin-top: 5%;
+    
+}
+.userBtnGrp{
+    width: 80%;
+}
+.usertext{
+    position: absolute;
+    bottom: 30%;
+    left: 10%;
+}

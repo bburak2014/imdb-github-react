@@ -1,0 +1,28 @@
+.MainBox{
+    background-color: #F5F5F5;
+    min-height: 800px;
+    padding: 40px;
+}
+@media only screen and (max-width: 600px) {
+    .MainBox{
+        
+        padding: 0px;
+    }
+  }
+  .ButtonMain{
+      width: 100%;
+      border: 0px;
+      background-color: transparent;
+  }
+  .ButtonMain:hover{
+      border-bottom: 2px solid green;
+   }
+   .ButtonMainclicked {
+    border-bottom: 2px solid green;
+ }
+ .ButtonMainUnclicked {
+    border-bottom: 0px;
+ }
+
+
+
